@@ -35,7 +35,7 @@ try:
 
     password = driver.find_element('css selector','input#password')
     password.clear()
-    password.send_keys('secret_sauce',Keys.ENTER)
+    password.send_keys('secret_sauc',Keys.ENTER)
     # password.send_keys(Keys.ENTER)
     logging.info('Entered password and  submitted')
 
