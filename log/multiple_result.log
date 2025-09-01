@@ -1,0 +1,16 @@
+2025-09-01 12:50:40,463 - INFO - launched browser successfully
+2025-09-01 12:50:40,466 - INFO - currently 1 are opened
+2025-09-01 12:50:40,650 - INFO - currently 2 are opened
+2025-09-01 12:50:40,654 - INFO - switched window to the child
+2025-09-01 12:50:40,945 - INFO - text in the child tab is New Window
+2025-09-01 12:50:40,959 - INFO - driver switched back to parent
+2025-09-01 12:50:40,999 - INFO - text in the parent tab is Opening a new window
+2025-09-01 12:50:43,166 - INFO - browser closed
+2025-09-01 12:52:23,980 - INFO - launched browser successfully
+2025-09-01 12:52:23,983 - INFO - currently 1 are opened
+2025-09-01 12:52:24,160 - INFO - currently 2 are opened
+2025-09-01 12:52:24,165 - INFO - switched window to the child
+2025-09-01 12:52:24,440 - INFO - text in the child tab is New Window
+2025-09-01 12:52:24,453 - INFO - driver switched back to parent
+2025-09-01 12:52:24,487 - INFO - text in the parent tab is Opening a new window
+2025-09-01 12:52:26,642 - INFO - browser closed
