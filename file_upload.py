@@ -11,7 +11,7 @@ Validate that the file name appears after uploading.
 
 Capture a screenshot if the upload fails.
 '''
-
+import time
 import logging
 
 from selenium import webdriver
@@ -48,6 +48,9 @@ try:
 
 except Exception as e:
     logging.error(e)
+    screen_shot = fr"D:\PycharmProjects\automation_practise\log\file_upload_fail_{time.strftime('%Y%m%d_%H%M%S')}.png"
+    driver.save_screenshot(screen_shot)
+    logging.info('failed screenshot')
 
 finally:
     driver.quit()
