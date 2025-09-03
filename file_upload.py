@@ -50,7 +50,7 @@ except Exception as e:
     logging.error(e)
     screen_shot = fr"D:\PycharmProjects\automation_practise\log\file_upload_fail_{time.strftime('%Y%m%d_%H%M%S')}.png"
     driver.save_screenshot(screen_shot)
-    logging.info('failed screenshot')
+    logging.error('failed screenshot')
 
 finally:
     driver.quit()
