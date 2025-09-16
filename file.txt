@@ -1,0 +1,6 @@
+2025-09-09 17:23:17,276 - INFO - successfully launched the web browser
+2025-09-09 17:23:17,337 - INFO - successfully uploaded file
+2025-09-09 17:23:18,735 - INFO - successfully submitted file
+2025-09-09 17:23:18,815 - INFO - the message after submission File Uploaded!
+Interview Questions.pdf
+2025-09-09 17:23:21,097 - INFO - browser closed 

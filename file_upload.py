@@ -24,7 +24,8 @@ opt.add_experimental_option('detach',True)
 
 logging.basicConfig(
     level = logging.INFO,
-    format = '%(asctime)s - %(levelname)s - %(message)s'
+    format = '%(asctime)s - %(levelname)s - %(message)s',
+    filename='file.txt'
 )
 driver = webdriver.Chrome(options=opt)
 driver.maximize_window()
