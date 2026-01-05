@@ -4,3 +4,17 @@
 2025-09-09 17:23:18,815 - INFO - the message after submission File Uploaded!
 Interview Questions.pdf
 2025-09-09 17:23:21,097 - INFO - browser closed 
+2025-12-02 10:19:06,342 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-12-02 10:19:06,343 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-12-02 10:19:13,723 - INFO - successfully launched the web browser
+2025-12-02 10:19:13,790 - INFO - successfully uploaded file
+2025-12-02 10:19:14,526 - INFO - successfully submitted file
+2025-12-02 10:19:14,575 - INFO - the message after submission File Uploaded!
+Interview Questions.pdf
+2025-12-02 10:19:16,744 - INFO - browser closed 
+2025-12-02 10:30:05,767 - INFO - successfully launched the web browser
+2025-12-02 10:30:05,832 - INFO - successfully uploaded file
+2025-12-02 10:30:06,805 - INFO - successfully submitted file
+2025-12-02 10:30:06,869 - INFO - the message after submission File Uploaded!
+Interview Questions.pdf
+2025-12-02 10:30:09,066 - INFO - browser closed 
